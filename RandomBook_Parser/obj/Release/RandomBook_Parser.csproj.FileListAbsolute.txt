@@ -1,0 +1,46 @@
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\RandomBook_Parser.exe.config
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\RandomBook_Parser.exe
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\RandomBook_Parser.pdb
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\WebDriver.dll
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\WebDriver.xml
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csprojAssemblyReference.cache
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.MainForm.resources
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.Properties.Resources.resources
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.GenerateResource.cache
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.CoreCompileInputs.cache
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.CopyComplete
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.exe
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.pdb
+C:\Программирование\Own development\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.AboutForm.resources
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\RandomBook_Parser.exe.config
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\RandomBook_Parser.exe
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\RandomBook_Parser.pdb
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\WebDriver.dll
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\bin\Release\WebDriver.xml
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csprojAssemblyReference.cache
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.AboutForm.resources
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.MainForm.resources
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.Properties.Resources.resources
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.GenerateResource.cache
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.CoreCompileInputs.cache
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.CopyComplete
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.exe
+C:\Программирование\Own development\My projects\RandomBook_Parser\RandomBook_Parser\RandomBook_Parser\obj\Release\RandomBook_Parser.pdb
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\RandomBook_Parser.exe.config
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\RandomBook_Parser.exe
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\RandomBook_Parser.pdb
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\WebDriver.dll
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\System.Reflection.TypeExtensions.xml
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\bin\Release\WebDriver.xml
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.csprojAssemblyReference.cache
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.AboutForm.resources
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.MainForm.resources
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.Properties.Resources.resources
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.GenerateResource.cache
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.CoreCompileInputs.cache
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.csproj.CopyComplete
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.exe
+C:\Программирование\Development\My developments\01 Парсер случайных книг\RandomBook_Parser\obj\Release\RandomBook_Parser.pdb
