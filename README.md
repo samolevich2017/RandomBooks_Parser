@@ -9,7 +9,7 @@
   <li>To export the resulting collection, click the "Export" button</li>
 </ol>
 
-<p>Also in the status bar you can see information about the work of the parser</p>
+<p>Also in the status bar you can see information about the work of the parser.</p>
 <p>Parsing is done asynchronously.</p>
 
 <p><i><b>P.S.</b> At the moment, the application is not stable. Sometimes errors are possible, which can be solved by restarting the application. In the future, all bugs will be fixed</i></p>
